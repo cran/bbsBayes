@@ -1,4 +1,4 @@
-3924ed262b9db4d1503f6d0be6966188 *DESCRIPTION
+12b1806eff9b4240fdbd863d5f321995 *DESCRIPTION
 4d3a8092bd38021e7d60bd3f5ecb3ef2 *LICENSE
 01ff9a8b8761d095ff9765eeb453a7ab *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
@@ -8,9 +8,9 @@ b103a324a6df91cdb6838efc8d2e44cb *R/data.R
 f19ed861206875da74cba53eb47bf31a *R/fetch-bbs-data.R
 13071656b6992f34879744d282585f8b *R/generate-cont-indices.R
 2d2df60fd86beff3daf8c8005b48534a *R/generate-cont-trend.R
-38f29ccab5a8e9964c2bb8d42fa117a7 *R/generate-indices.R
+342734e273abd4cb64f8b03da88f418e *R/generate-indices.R
 e29a784ef88aea266e4fd54c0259d0f7 *R/generate-map.R
-e0239aa3e5a128dee96ca15851fc1c69 *R/generate-regional-indices.R
+ac58cef60f49d6ad8b3ee890bbfaaa0b *R/generate-regional-indices.R
 6e076bf7ed8bf4bf149fdb250d3be4ee *R/generate-regional-trends.R
 b8f408bd9b3588c84af7be6ceb1db677 *R/generate-strata-indices.R
 9f45cc291d85995b3d532306b33be551 *R/generate-strata-trends.R
@@ -34,11 +34,11 @@ f22ab1b7b111c7a4de9b6bd061f3ff4d *R/r-hat.R
 1f6ee8606e740f9b682028e8ac927d0f *R/run-model.R
 51d89cf3fdc30e58f54bfd3997ef9297 *R/stratify.R
 7354e236ed6142c8722c1215d25e465e *R/waic.R
-c782f42f40974edab70c2c5edf03f654 *README.md
+a27662cb73280f8a8869fe27cbe275cf *README.md
 5822e0adfeea507d5e0a838f1eae10dd *data/bird_sample.rda
 8b519d5492eeac7af90f2c1ec4126712 *data/route_sample.rda
 7482b30392248780888ff42090301aa6 *data/species_sample.rda
-5b9545000fe71330d90e6b7e61b73ac7 *inst/CITATION
+c85fbd8d0bfc3dc9737ce7859f49d7ed *inst/CITATION
 775107996d7497a2f352758531caac9a *inst/area-weight/bcr.csv
 66d715360db03b92a778a8b3c93de9c1 *inst/area-weight/db.csv
 b47a60226819fdd45786209eb1772b47 *inst/area-weight/stateprov.csv
@@ -122,7 +122,7 @@ b268233c6a2e19357e4dc75aa31f11b2 *man/figures/BARS_trendmap.png
 b5bca51066ea59ee1d403ca455378dba *man/figures/CCLO_alternate_n2.png
 e30f4b08f3b5df1f3e14dfb008bec8fe *man/figures/CCLO_default_n.png
 b50475251bf30f66ca142ca34da4eb27 *man/figures/PAWR_Canada.png
-41f1b9ecc74c619ed765ba3c37e8b2a5 *man/figures/WOTH_status_assessment.png
+34d3cf55e4509c8b17f97b0890687ebe *man/figures/WOTH_status_assessment.png
 c23f7e570a57b55a1ad9676d0cfe3194 *man/figures/logo.png
 1ef03c2bee1ceae1dc9958fcc00ecb48 *man/generate_indices.Rd
 e9de14b6c2ecdc6c181cf94bf22dc915 *man/generate_map.Rd
