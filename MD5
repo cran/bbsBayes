@@ -1,11 +1,11 @@
-12b1806eff9b4240fdbd863d5f321995 *DESCRIPTION
+4f31073f8d4375a6eae547603310487a *DESCRIPTION
 4d3a8092bd38021e7d60bd3f5ecb3ef2 *LICENSE
-01ff9a8b8761d095ff9765eeb453a7ab *NAMESPACE
+4fce07c03e652ef164ccadbe3a87e9d0 *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
 e228901c0fc40d0126774eeec9c5af26 *R/bbsBayes-package.R
 b103a324a6df91cdb6838efc8d2e44cb *R/data.R
 9676b478053532d9e0554c369dbb7959 *R/extract-index-data.R
-f19ed861206875da74cba53eb47bf31a *R/fetch-bbs-data.R
+e888e5e84948e5bc7d6df22f8103861f *R/fetch-bbs-data.R
 13071656b6992f34879744d282585f8b *R/generate-cont-indices.R
 2d2df60fd86beff3daf8c8005b48534a *R/generate-cont-trend.R
 342734e273abd4cb64f8b03da88f418e *R/generate-indices.R
@@ -32,13 +32,13 @@ d4434fe9fa8af5085c976b1ee73d0904 *R/plot-indices.R
 3b04423c27aaee1354a51c6b47271dfa *R/prepare-jags-data.R
 f22ab1b7b111c7a4de9b6bd061f3ff4d *R/r-hat.R
 1f6ee8606e740f9b682028e8ac927d0f *R/run-model.R
-51d89cf3fdc30e58f54bfd3997ef9297 *R/stratify.R
+2cb5bc4448ba4d48b0f6f596695b3758 *R/stratify.R
 7354e236ed6142c8722c1215d25e465e *R/waic.R
 a27662cb73280f8a8869fe27cbe275cf *README.md
 5822e0adfeea507d5e0a838f1eae10dd *data/bird_sample.rda
 8b519d5492eeac7af90f2c1ec4126712 *data/route_sample.rda
 7482b30392248780888ff42090301aa6 *data/species_sample.rda
-c85fbd8d0bfc3dc9737ce7859f49d7ed *inst/CITATION
+2ba954f2d36a13484ca3b2eb7c10795e *inst/CITATION
 775107996d7497a2f352758531caac9a *inst/area-weight/bcr.csv
 66d715360db03b92a778a8b3c93de9c1 *inst/area-weight/db.csv
 b47a60226819fdd45786209eb1772b47 *inst/area-weight/stateprov.csv
@@ -52,7 +52,7 @@ d1c50e1b688a24c2aaa0beadc53403c8 *inst/composite-regions/stateprov.csv
 3ac19e505d47573711a50b862c5646f0 *inst/data-import/regs.csv
 bcfe64c5ca10c18d829baa9259ce7580 *inst/data-import/state-dir.csv
 4c76e68d2e5fdda5fd823378f775f4bc *inst/data-import/stop-dir.csv
-06cbbb50cbad2841b541b7aabfb3ad01 *inst/data-terms
+a86d9f5749641c762cecb681679ae23b *inst/data-terms
 ea914d4fed43b8a99039fb36813d7646 *inst/geofacet-grids/strat.csv
 9e0815ee06b29e7fadd05f6445f1c751 *inst/geofacet-grids/stratcan.csv
 ae3b3df9970b49b6523e608759bc957d *inst/maps/BBS_BCR_strata.cpg
@@ -103,6 +103,7 @@ e7c9d0e40539d280548580ffbb2689db *inst/models/gam-ye.jags
 964fa4d548a4aae1590fe516dd7e5a5c *inst/models/gam.t.jags
 c35355bd5d4b6fda6e23604f7882d695 *inst/models/slope.jags
 014b5760fe16657c4c6ac761761a1bb6 *inst/models/slope.t.jags
+d4b7bea0c09e5f1a78c98057c5102be8 *inst/species-lump-split/lump.csv
 7121a3719e3b8aa903d9aa3ad4343c1e *man/bbsBayes-deprecated.Rd
 b0e743c2a44848acd15a85b281969c09 *man/bird_sample.Rd
 fe24856c7e2ab5f641bb8065236d943b *man/extract_index_data.Rd
@@ -144,4 +145,4 @@ d8a7b9e0176ff92f7316c3d529a40a49 *man/prepare_jags_data.Rd
 c9e230edff3b202889318d7a19d25d8d *man/route_sample.Rd
 af02102c5235663a2a3525b7642919ee *man/run_model.Rd
 4b52789c74110724c467230fff606321 *man/species_sample.Rd
-27ac242e53d638738d1febc94655d2bf *man/stratify.Rd
+5944151c3ab568a459e5f5c89e5cfaa9 *man/stratify.Rd
