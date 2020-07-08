@@ -1,11 +1,11 @@
-4f31073f8d4375a6eae547603310487a *DESCRIPTION
+bbe24482764bef4b1b11799b367dad06 *DESCRIPTION
 4d3a8092bd38021e7d60bd3f5ecb3ef2 *LICENSE
 4fce07c03e652ef164ccadbe3a87e9d0 *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
 e228901c0fc40d0126774eeec9c5af26 *R/bbsBayes-package.R
 b103a324a6df91cdb6838efc8d2e44cb *R/data.R
 9676b478053532d9e0554c369dbb7959 *R/extract-index-data.R
-e888e5e84948e5bc7d6df22f8103861f *R/fetch-bbs-data.R
+e8f7aee5ad842ec4d764d7afdf18013d *R/fetch-bbs-data.R
 13071656b6992f34879744d282585f8b *R/generate-cont-indices.R
 2d2df60fd86beff3daf8c8005b48534a *R/generate-cont-trend.R
 342734e273abd4cb64f8b03da88f418e *R/generate-indices.R
@@ -107,7 +107,7 @@ d4b7bea0c09e5f1a78c98057c5102be8 *inst/species-lump-split/lump.csv
 7121a3719e3b8aa903d9aa3ad4343c1e *man/bbsBayes-deprecated.Rd
 b0e743c2a44848acd15a85b281969c09 *man/bird_sample.Rd
 fe24856c7e2ab5f641bb8065236d943b *man/extract_index_data.Rd
-0132931683ece656fe327ef13570ea8c *man/fetch_bbs_data.Rd
+f7118391dc54dcdb9e5bf5fd49cc5283 *man/fetch_bbs_data.Rd
 9eb0b0dbefed2bdc42d182e482b5bf9a *man/figures/AMKE_all.png
 3fc76310e923a99c852efbd928ed3455 *man/figures/AMKE_firstdiff.png
 f594f43b5ed265e8a7a7e19395c2fc6e *man/figures/AMKE_gam.png
