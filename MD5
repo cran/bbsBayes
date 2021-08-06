@@ -1,4 +1,4 @@
-67d146477c3c9060d3c679a0b1afd78f *DESCRIPTION
+384cf03ef6c8db970fc137f0a4e83408 *DESCRIPTION
 a1e317ac489479e6af68d0b8b2bf3d98 *LICENSE
 967b866300c0cd723dbb43b53cf5fd93 *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
@@ -22,7 +22,7 @@ f0b1d024787fa0f5b4550b0519fd8c87 *R/get-final-values.R
 ed14797923641771326e4ddbfdf3fa24 *R/get-prepared-data.R
 a3edfc51e95db58a2a09a85245617cb9 *R/get-species-aou.R
 603fa0e4feb0e93775d5e9c3658ed535 *R/get-strata-area.R
-b30aa8249446b36b314e791e9d3c8cb9 *R/load-bbs-data.R
+65c4809c5782341bea2a6f8b4c164fd9 *R/load-bbs-data.R
 68d703add5e79be71bc7bfd52a0b7951 *R/load-map.R
 75d6cf5f3be6509f7b4a327caa067f0b *R/load-sample-data.R
 b4ad84d74e1a27dae9cdc99ca0cf201f *R/lppd.R
@@ -36,11 +36,11 @@ f22ab1b7b111c7a4de9b6bd061f3ff4d *R/r-hat.R
 d98efec621c9696c9e7bec8c00a93833 *R/run-model.R
 3b8b707a51cd4d277df890311da2d299 *R/stratify.R
 7354e236ed6142c8722c1215d25e465e *R/waic.R
-8c2c7e2a47cd9d4f2d81269fe79494d2 *README.md
+03f24c0d994ad329f42ffc9d540f5947 *README.md
 5822e0adfeea507d5e0a838f1eae10dd *data/bird_sample.rda
 8b519d5492eeac7af90f2c1ec4126712 *data/route_sample.rda
 7482b30392248780888ff42090301aa6 *data/species_sample.rda
-2ba954f2d36a13484ca3b2eb7c10795e *inst/CITATION
+0695b96238700bd0ec6503760a2783ac *inst/CITATION
 775107996d7497a2f352758531caac9a *inst/area-weight/bcr.csv
 66d715360db03b92a778a8b3c93de9c1 *inst/area-weight/db.csv
 b47a60226819fdd45786209eb1772b47 *inst/area-weight/stateprov.csv
@@ -137,7 +137,7 @@ a42404edcb9fa49f44f060e5e6980bf9 *man/get_final_values.Rd
 51b8ecb9c990e351a898aa89fd4a744a *man/get_prepared_data.Rd
 1368ac531ba08884f132338ff3015ee8 *man/get_species_aou.Rd
 138aaaefe79cb5e71c1caaf63963eca0 *man/get_strata_area.Rd
-9bb14d3cc11fa8791e79a5cc466ed41d *man/load_bbs_data.Rd
+a3d8fe494aad9068330c193b196edd03 *man/load_bbs_data.Rd
 f64811a8ec50123480bb24058410b1f9 *man/load_map.Rd
 fb795183fbccdaf584953a77f8f1b122 *man/load_sample_data.Rd
 c75a6144804e8138f03ca4ed80cb684c *man/lppd.Rd
