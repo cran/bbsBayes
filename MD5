@@ -1,4 +1,4 @@
-d4b7620f142c7f5011dfe9a4a50c339c *DESCRIPTION
+86e82621220f915177a63eed4cd8d8a2 *DESCRIPTION
 a1e317ac489479e6af68d0b8b2bf3d98 *LICENSE
 28c56b51557baecfa6ae066135d5c037 *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
@@ -36,7 +36,7 @@ f22ab1b7b111c7a4de9b6bd061f3ff4d *R/r-hat.R
 81fab348824b8dd6a2bda7e464e2ead8 *R/run-model.R
 3b8b707a51cd4d277df890311da2d299 *R/stratify.R
 7354e236ed6142c8722c1215d25e465e *R/waic.R
-b6b1aec75180910ba5668437eba651b2 *README.md
+9caf0dd412cfdf685a502fee305e08cf *README.md
 5822e0adfeea507d5e0a838f1eae10dd *data/bird_sample.rda
 8b519d5492eeac7af90f2c1ec4126712 *data/route_sample.rda
 7482b30392248780888ff42090301aa6 *data/species_sample.rda
@@ -103,8 +103,8 @@ e312dfd510deec97872d9a81372853a6 *inst/maps/BBS_USGS_strata.shp.xml
 91d356f5a98b5ef0c590723bdcd98310 *inst/models/gam-ye.t.jags
 9ceb178fa61100046f7df3d77b0facb7 *inst/models/gam.jags
 352372ec73fb419e692dfacc6785ff8b *inst/models/gam.t.jags
-c20d70b3e6d7053900fab632d56210c8 *inst/models/slope.jags
-18655c845829f98b26a17fcab688b30c *inst/models/slope.t.jags
+b4f804ce4a6c880f440c6b0bcab49489 *inst/models/slope.jags
+45f75e439b8cd42384a35931f8ae0c15 *inst/models/slope.t.jags
 d4b7bea0c09e5f1a78c98057c5102be8 *inst/species-lump-split/lump.csv
 9908048d5c67c61932846cfe6c9b1225 *man/bbsBayes-deprecated.Rd
 1b91d8f67ed5da5ced6219c87c7a2474 *man/bird_sample.Rd
