@@ -1,15 +1,14 @@
 Package: bbsBayes
 Type: Package
 Title: Hierarchical Bayesian Analysis of North American BBS Data
-Version: 2.4.1
-Date: 2022-04-05
+Version: 2.5.0
+Date: 2022-07-11
 Authors@R: c(person("Brandon P.M.", "Edwards", role = c("aut", "cre"),
                      email = "brandonedwards3@cmail.carleton.ca"),
               person("Adam C.", "Smith", role = "aut",
                       email = "adam.smith2@canada.ca"))
 Imports: progress, jagsUI, ggrepel, geofacet, ggplot2, stringr,
-        grDevices, rgdal, dplyr, sf, tools, latticeExtra, rappdirs,
-        sbtools, mgcv
+        grDevices, dplyr, sf, tools, rappdirs, sbtools, mgcv
 Depends: R (>= 3.5)
 SystemRequirements: JAGS 4.3.0
         (https://sourceforge.net/projects/mcmc-jags/)
@@ -32,9 +31,9 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
-Packaged: 2022-04-05 13:04:17 UTC; brand
+Packaged: 2022-07-11 13:00:59 UTC; brand
 Author: Brandon P.M. Edwards [aut, cre],
   Adam C. Smith [aut]
 Maintainer: Brandon P.M. Edwards <brandonedwards3@cmail.carleton.ca>
 Repository: CRAN
-Date/Publication: 2022-04-05 13:52:29 UTC
+Date/Publication: 2022-07-11 18:30:06 UTC
