@@ -1,11 +1,11 @@
-73faa6bbd5a946fe2d6c84cfb2c024cb *DESCRIPTION
+040249a3c1550250ceedf2459f9d8d7f *DESCRIPTION
 a1e317ac489479e6af68d0b8b2bf3d98 *LICENSE
 28c56b51557baecfa6ae066135d5c037 *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
 e228901c0fc40d0126774eeec9c5af26 *R/bbsBayes-package.R
 b103a324a6df91cdb6838efc8d2e44cb *R/data.R
 9676b478053532d9e0554c369dbb7959 *R/extract-index-data.R
-705cecdcad857a16a0595fcaa43afd92 *R/fetch-bbs-data.R
+9b8d9bb552fddd415f5a561a2dc486fe *R/fetch-bbs-data.R
 13071656b6992f34879744d282585f8b *R/generate-cont-indices.R
 2d2df60fd86beff3daf8c8005b48534a *R/generate-cont-trend.R
 f0673c972e77acd4c2935f9a641ad34e *R/generate-indices.R
@@ -36,7 +36,7 @@ f22ab1b7b111c7a4de9b6bd061f3ff4d *R/r-hat.R
 81fab348824b8dd6a2bda7e464e2ead8 *R/run-model.R
 d62515a0f8e67eba59ff55048333c22b *R/stratify.R
 7354e236ed6142c8722c1215d25e465e *R/waic.R
-7e182ce9bbbad59f8099d4ba915c0588 *README.md
+1b9a250dfa36e14f6696cb5e5dc68b05 *README.md
 5822e0adfeea507d5e0a838f1eae10dd *data/bird_sample.rda
 8b519d5492eeac7af90f2c1ec4126712 *data/route_sample.rda
 7482b30392248780888ff42090301aa6 *data/species_sample.rda
