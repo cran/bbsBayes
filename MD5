@@ -1,4 +1,4 @@
-8bc577c85ebe03ad165e5310b04ef768 *DESCRIPTION
+6e19aaeebf0794191700b793a931bdc1 *DESCRIPTION
 a1e317ac489479e6af68d0b8b2bf3d98 *LICENSE
 28c56b51557baecfa6ae066135d5c037 *NAMESPACE
 6bf6dc37dc68e69505d058525657d5f0 *R/bbsBayes-deprecated.R
@@ -36,11 +36,11 @@ f22ab1b7b111c7a4de9b6bd061f3ff4d *R/r-hat.R
 9c9721547e6ba297b8010b2cc5ae59f4 *R/run-model.R
 c10a61cd57972a40f662fe777e527849 *R/stratify.R
 7354e236ed6142c8722c1215d25e465e *R/waic.R
-1b9a250dfa36e14f6696cb5e5dc68b05 *README.md
+748f7d016de404461e5c985e6c4c4edd *README.md
 5822e0adfeea507d5e0a838f1eae10dd *data/bird_sample.rda
 8b519d5492eeac7af90f2c1ec4126712 *data/route_sample.rda
 7482b30392248780888ff42090301aa6 *data/species_sample.rda
-0695b96238700bd0ec6503760a2783ac *inst/CITATION
+ff48bfbe0c66c129f8f589e70ac3a1d9 *inst/CITATION
 775107996d7497a2f352758531caac9a *inst/area-weight/bcr.csv
 66d715360db03b92a778a8b3c93de9c1 *inst/area-weight/db.csv
 b47a60226819fdd45786209eb1772b47 *inst/area-weight/stateprov.csv
@@ -99,7 +99,7 @@ ae3b3df9970b49b6523e608759bc957d *inst/maps/BBS_USGS_strata.cpg
 e312dfd510deec97872d9a81372853a6 *inst/maps/BBS_USGS_strata.shp.xml
 3fec43a4ceb316e68f8b1347ab88c340 *inst/maps/BBS_USGS_strata.shx
 9c674a54abd6aef7034ddfd903057b64 *inst/models/first-difference.jags
-0d0f7659ca5e4ae06e72337b929d60c4 *inst/models/first-difference.t.jags
+e3e9ddc19a05413b77ea9454f3f5f16c *inst/models/first-difference.t.jags
 0d7e156bded48c7eafbb4a188d758f7f *inst/models/gam-ye.jags
 91d356f5a98b5ef0c590723bdcd98310 *inst/models/gam-ye.t.jags
 9ceb178fa61100046f7df3d77b0facb7 *inst/models/gam.jags
